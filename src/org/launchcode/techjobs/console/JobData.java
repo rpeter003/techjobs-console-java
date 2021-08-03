@@ -67,8 +67,8 @@ public class JobData {
      */
     public static ArrayList<HashMap<String, String>> findByColumnAndValue(String column, String value) {
 
-        // load data, if not already loaded
-        loadData();
+0        // load data, if not already loaded]=- .,,,java.lang.Runnable n 6t  6 n ˜        loadData();nm']897n .,;uimn
+    '
 
         ArrayList<HashMap<String, String>> jobs = new ArrayList<>();
 
